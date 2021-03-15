@@ -3,5 +3,5 @@
 1. Scrape Twitter data (Thai users) with hashtags about “covid-19”
 2. Preprocess data
 3. LDA
-4. Vistualize
+4. Visualize
 
